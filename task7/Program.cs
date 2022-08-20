@@ -1,4 +1,6 @@
-﻿string number = Convert.ToString(new Random().Next(10,99));
+﻿// Дано число из отрезка [10, 99]. Показать наибольшую цифру числа
+
+string number = Convert.ToString(new Random().Next(10,99));
 Console.WriteLine(number);
 if (number[0] == number[1]) {
     Console.WriteLine("Оба числа равны "+number[0]);
