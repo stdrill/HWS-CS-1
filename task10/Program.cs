@@ -1,4 +1,6 @@
-﻿int number = new Random().Next(1,999);
+﻿// Найти третью цифру числа или сообщить, что её нет
+
+int number = new Random().Next(1,999);
 Console.WriteLine(number);
 if (number < 100) {
     Console.WriteLine("Третьей цифры нет");
