@@ -1,4 +1,6 @@
-﻿int a = new Random().Next(1, 50);
+﻿// Найти максимальное из трех чисел
+
+int a = new Random().Next(1, 50);
 int b = new Random().Next(1, 50);
 int c = new Random().Next(1, 50);
 Console.WriteLine("{0} {1} {2}", a, b, c);
