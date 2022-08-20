@@ -1,0 +1,15 @@
+D:\Projects\HWS CS 1\task10\obj\Debug\net6.0\task10.csproj.AssemblyReference.cache
+D:\Projects\HWS CS 1\task10\obj\Debug\net6.0\task10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\HWS CS 1\task10\obj\Debug\net6.0\task10.AssemblyInfoInputs.cache
+D:\Projects\HWS CS 1\task10\obj\Debug\net6.0\task10.AssemblyInfo.cs
+D:\Projects\HWS CS 1\task10\obj\Debug\net6.0\task10.csproj.CoreCompileInputs.cache
+D:\Projects\HWS CS 1\task10\bin\Debug\net6.0\task10.exe
+D:\Projects\HWS CS 1\task10\bin\Debug\net6.0\task10.deps.json
+D:\Projects\HWS CS 1\task10\bin\Debug\net6.0\task10.runtimeconfig.json
+D:\Projects\HWS CS 1\task10\bin\Debug\net6.0\task10.dll
+D:\Projects\HWS CS 1\task10\bin\Debug\net6.0\task10.pdb
+D:\Projects\HWS CS 1\task10\obj\Debug\net6.0\task10.dll
+D:\Projects\HWS CS 1\task10\obj\Debug\net6.0\refint\task10.dll
+D:\Projects\HWS CS 1\task10\obj\Debug\net6.0\task10.pdb
+D:\Projects\HWS CS 1\task10\obj\Debug\net6.0\task10.genruntimeconfig.cache
+D:\Projects\HWS CS 1\task10\obj\Debug\net6.0\ref\task10.dll
